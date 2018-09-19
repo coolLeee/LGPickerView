@@ -3,6 +3,8 @@ A pickerView based system UIPickerView which can custom the separatorColor and s
 
 How to use:
 
+LGPickerView拖入到项目中：
+
 1)use storyboard or xib
   根据需求拖动一个view到sb或xib中，设置类型为LGPickerView
   在控制器中遵守LGPickerViewDelegate,LGPickerViewDataSource
